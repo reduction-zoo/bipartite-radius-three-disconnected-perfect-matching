@@ -1,0 +1,18 @@
+[
+  {
+    "reservoir": "K3,3",
+    "vertices": 12,
+    "residual_order": 10,
+    "residual_matching_size": 4,
+    "extends_center_cut": false,
+    "eccentricity_zero": 3
+  },
+  {
+    "reservoir": "K4,3",
+    "vertices": 14,
+    "residual_order": 12,
+    "residual_matching_size": 6,
+    "extends_center_cut": true,
+    "eccentricity_zero": 3
+  }
+]

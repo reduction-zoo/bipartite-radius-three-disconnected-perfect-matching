@@ -1,0 +1,2 @@
+Selector: 20 vertices/35 edges including both full reservoirs. Binary: 8 private+8 displayed anchor vertices/18 edges; reservoir-internal edges omitted explicitly.
+Reservoirs: 14 vertices/25 edges; explicit seven-edge perfect matching checked.

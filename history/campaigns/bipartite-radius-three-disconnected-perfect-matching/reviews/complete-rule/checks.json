@@ -1,0 +1,36 @@
+{
+  "local_states": {
+    "binary_False": 1,
+    "binary_True": 2,
+    "selector_False": 1,
+    "selector_True": 3
+  },
+  "invalid_encodings": 4,
+  "cases": [
+    {
+      "name": "unbalanced_dense",
+      "source_yes": false,
+      "target_vertices": 4030,
+      "distinct_recoveries": 0,
+      "deletion_component_counts": []
+    },
+    {
+      "name": "cube",
+      "source_yes": true,
+      "target_vertices": 5694,
+      "distinct_recoveries": 3,
+      "deletion_component_counts": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "name": "odd_radius_four_path",
+      "source_yes": false,
+      "target_vertices": 3926,
+      "distinct_recoveries": 0,
+      "deletion_component_counts": []
+    }
+  ]
+}
