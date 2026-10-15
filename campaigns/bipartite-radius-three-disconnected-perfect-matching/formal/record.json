@@ -1,0 +1,7 @@
+{
+  "id": "Q005",
+  "source_definition": "The source is a connected bipartite graph of radius at most four. Its outputs are perfect matchings whose deletion disconnects the graph, or NO-SOLUTION.",
+  "target_definition": "Both problems ask for a perfect matching whose deletion disconnects a connected bipartite graph, or NO-SOLUTION. The source radius is at most four and the target radius at most three.",
+  "required_result": "Construct deterministic polynomial-time maps F and G: F sends every legal source instance to a legal target instance, and G(x,y) is a valid source output for every valid output y of F(x). Preserve the stated threshold, domain and promises. The requested complexity conclusion is NP-hardness for the stated target problem.",
+  "equation": ""
+}
